@@ -4,5 +4,24 @@
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "mongodb": "^7.0.0"
-  }
+  },
+  "name": "blood_donation_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAHFUZh129/blood_donation_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAHFUZh129/blood_donation_server/issues"
+  },
+  "homepage": "https://github.com/MAHFUZh129/blood_donation_server#readme",
+  "description": ""
 }
